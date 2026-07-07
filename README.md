@@ -12,7 +12,7 @@
 
 *A collection of Python projects built while learning the language from the ground up.*
 
-Every project in this repository is built **using only the concepts learned up to that point**, without relying on advanced topics that haven't been covered yet. The goal is to document my learning journey through practical projects rather than isolated exercises.
+Every project in this repository is built **using only the concepts learned up to that point**, without relying on advanced topics that haven't been covered yet. The goal is to document my learning journey through practical, hands-on projects instead of isolated coding exercises.
 
 </div>
 
@@ -34,8 +34,8 @@ Every project in this repository is built **using only the concepts learned up t
 | 10 | 🔑 Password Strength Analyzer | Strings, Character Validation, String Inquiry Methods | ⭐⭐⭐☆☆☆☆☆☆☆ (3/10) |
 | 11 | 📝 Text Formatter & Analyzer | String Methods, Indexing, Slicing, Text Processing | ⭐⭐⭐☆☆☆☆☆☆☆ (3/10) |
 | 12 | 📧 User Registration Validator | String Validation, Search Methods, Nested Conditionals | ⭐⭐⭐⭐☆☆☆☆☆☆ (4/10) |
-| 13 | 🔤 ASCII & Unicode Explorer *(Planned)* | ASCII, Unicode, Character Encoding, Formatted Printing | ⭐⭐⭐☆☆☆☆☆☆☆ (3/10) |
-| 14 | 🧾 Professional Receipt Generator *(Planned)* | Formatted Printing, Escape Sequences, Output Formatting | ⭐⭐⭐⭐☆☆☆☆☆☆ (4/10) |
+| 13 | 🔤 ASCII Explorer | ASCII, Character Encoding, Character Classification, Formatted Printing | ⭐⭐⭐☆☆☆☆☆☆☆ (3/10) |
+| 14 | 🧾 Professional Receipt Generator | Formatted Printing, Escape Sequences, Alignment, f-Strings | ⭐⭐⭐⭐☆☆☆☆☆☆ (4/10) |
 
 > **Difficulty Scale:** Rated against Python as a whole, not against my current experience level.
 
@@ -43,7 +43,7 @@ Every project in this repository is built **using only the concepts learned up t
 
 # 🎯 Learning Philosophy
 
-Instead of following tutorials and moving on, every new topic is reinforced by building projects.
+Instead of simply following tutorials, every new concept is reinforced by building practical projects.
 
 The rules I follow are simple:
 
@@ -65,12 +65,13 @@ As I continue learning Python, this repository will gradually evolve from beginn
 - Match-Case
 - Loops & Flow Control
 - Strings
+- Character Encoding (ASCII)
+- Formatted Printing
 
 ---
 
 # 🚀 Upcoming Topics
 
-- Formatted Printing
 - Functions
 - Collections (Lists, Tuples, Sets & Dictionaries)
 - File Handling
@@ -93,6 +94,8 @@ It's to document my progression from writing my very first Python program to bui
 
 Every project represents a milestone in that journey, showing how each new concept is applied through practical, hands-on development.
 
+As I learn more advanced topics, this repository will continue to grow with increasingly challenging and realistic projects.
+
 ---
 
 <div align="center">
@@ -100,5 +103,7 @@ Every project represents a milestone in that journey, showing how each new conce
 ### ⭐ Thanks for visiting!
 
 If you're learning Python too, feel free to explore the projects and follow along on this journey.
+
+**Happy Coding! 🚀**
 
 </div>
